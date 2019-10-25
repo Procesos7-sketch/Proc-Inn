@@ -2903,21 +2903,6 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rFdvxunHEp {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rFdvxunHEp .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rFdvxunHEp .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-rFdvxunHEp .mbr-text {
-  color: #149dcc;
+.cid-rFV9ijq7jw {
+  background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
